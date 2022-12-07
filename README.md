@@ -15,3 +15,6 @@ Here, I tried to implement some Search Algorithms (in Python 3.7.3) including:
 - Greedy Search
 - A* Search
 - Iterative Deepening A*
+- Simulated Annealing
+- Hill Climbing
+- Genetic Algorithm
