@@ -3,7 +3,7 @@
 
 This repository is a part of the Lab assignments of the course **CSE 714** (Artifical Intelligence Lab).
 
-Here, I tried to implement some Search Algorithms (in Python 3.7.3) including:
+Here, I tried to implement some Search (and a few Pathfinding) Algorithms (in Python 3.7.4) including:
 
 - Breadth First Search
 - Depth First Search
@@ -18,3 +18,5 @@ Here, I tried to implement some Search Algorithms (in Python 3.7.3) including:
 - Simulated Annealing
 - Hill Climbing
 - Genetic Algorithm
+- Dijkstra's Algorithm
+- _Bonus: The water jug problem_ 🤩
